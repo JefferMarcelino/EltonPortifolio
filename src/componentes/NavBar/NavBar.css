@@ -16,6 +16,9 @@
     align-items: center;
     margin:0 150px 0 200px;
 }
+.button{
+    display: none;
+}
 .nav__logo, .nav-links{
     display: flex;
     align-items: center;
