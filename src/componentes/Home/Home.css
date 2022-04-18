@@ -45,6 +45,9 @@
         margin:0 30px 0 10px;
         
     }
+    .home__content a{
+        margin-left: 15px;
+    }
     .center{
         margin: 30px 0 0 0;
     }

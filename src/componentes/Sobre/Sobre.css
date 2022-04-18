@@ -1,3 +1,4 @@
+
 .content img{
     width: 30%;
     height: 30%;
@@ -28,6 +29,8 @@
     color: #074141;
     margin-bottom: 20px;
 }
+
+
 @media (max-width:720px){
     .content{
         flex-direction: column;
@@ -37,6 +40,7 @@
     }
     .content__ard{
         width: 350px;
-        margin: 0 80px;
+        margin: 0 100px 0 120px;
     }
+    
 }

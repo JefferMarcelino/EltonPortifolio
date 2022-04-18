@@ -2,10 +2,10 @@ import my__img from "../img/logo.svg";
 import "./Sobre.css"
 export const Sobre = () => {
     return (
-    <div className="about">
-      <h1>Sobre</h1>
+    <div className="about anima">
+      <h1>About</h1>
         <div className="content">
-            <img src={my__img} alt="" srcset="" />
+            <img src={my__img} />
             <div className="content__ard">
                 <h2>I'm Elton</h2>
                 <p>

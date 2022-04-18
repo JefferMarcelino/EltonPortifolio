@@ -3,9 +3,9 @@ import {Barra} from "./Barra"
 import "./Skills.css";
 export const Skills=()=>{
     return(
-        <div className="skills">
+        <div className="skills anima ">
             <h1>Skills</h1>
-            <div className="skills__content">
+            <div className="skills__content ">
                 <div className="content__s">
                     <div className="skills-title">
                         <div className="skills_la" >
