@@ -2,7 +2,7 @@ import "./NavBar.css";
 import { useState } from "react";
 export const NavBar = () => {
     var classe="nav-links";
-    const [isOpen, setIsOpen] = useState(false);
+    const [isOpen, setIsOpen] = useState(true);
     return (
         <header className="header">
             <nav className="nav__bar">
